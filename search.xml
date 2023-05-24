@@ -13,7 +13,7 @@
 </blockquote>
 <figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="class"><span class="keyword">struct</span> <span class="title">DNode</span></span></span><br><span class="line"><span class="class">{</span></span><br><span class="line">    <span class="type">int</span> data;</span><br><span class="line">    <span class="class"><span class="keyword">struct</span> <span class="title">DNode</span> *<span class="title">next</span>;</span></span><br><span class="line">}DNode;</span><br></pre></td></tr></table></figure>
 
-<img src="/2023/05/24/Test-my-site/05/24/Test-my-site/pexels-photo-15953911.jpeg" class title="免费 哥德式, 圓石, 城市 的 免费素材图片 素材图片">
+<img src="/2023/05/24/Test-my-site/pexels-photo-15953911.jpeg" alt="免费 哥德式, 圓石, 城市 的 免费素材图片 素材图片">
 ]]></content>
   </entry>
   <entry>
@@ -30,13 +30,15 @@
 
 
 
-<p><img src="/2023/05/24/%E6%88%90%E9%83%BD/05/24/%E6%88%90%E9%83%BD/image-20230303190404068.png"></p>
+<img src="/2023/05/24/%E6%88%90%E9%83%BD/image-20230303190404068.png">
+
 <img src="/2023/05/24/%E6%88%90%E9%83%BD/05/24/%E6%88%90%E9%83%BD/image-20230303190437931.png" class>
 
-<p><img src="/2023/05/24/%E6%88%90%E9%83%BD/05/24/%E6%88%90%E9%83%BD/image-20230303190459492.png"></p>
+<img src="/2023/05/24/%E6%88%90%E9%83%BD/image-20230303190459492.png">
+
 <img src="/2023/05/24/%E6%88%90%E9%83%BD/image-20230303190519636.png" alt="image-20230303190519636" style="zoom:80%;">
 
-<img src="/2023/05/24/%E6%88%90%E9%83%BD/05/24/%E6%88%90%E9%83%BD/image-20230303190538262.png" class title="image-20230303190538262">
+<img src="/2023/05/24/%E6%88%90%E9%83%BD/image-20230303190538262.png" alt="image-20230303190538262">
 
 <img src="/2023/05/24/%E6%88%90%E9%83%BD/image-20230303190555199.png" alt="image-20230303190555199" style="zoom:80%;">
 
