@@ -13,7 +13,7 @@
 </blockquote>
 <figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="class"><span class="keyword">struct</span> <span class="title">DNode</span></span></span><br><span class="line"><span class="class">{</span></span><br><span class="line">    <span class="type">int</span> data;</span><br><span class="line">    <span class="class"><span class="keyword">struct</span> <span class="title">DNode</span> *<span class="title">next</span>;</span></span><br><span class="line">}DNode;</span><br></pre></td></tr></table></figure>
 
-<p><img src="/.com//pexels-photo-15953911.jpeg" alt="免费 哥德式, 圓石, 城市 的 免费素材图片 素材图片"></p>
+<img src="/.com//05/24/Test-my-site/pexels-photo-15953911.jpeg" class title="免费 哥德式, 圓石, 城市 的 免费素材图片 素材图片">
 ]]></content>
   </entry>
   <entry>
